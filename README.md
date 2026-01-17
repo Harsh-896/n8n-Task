@@ -97,8 +97,6 @@ Automated n8n workflow that generates SEO-optimized blog posts (1500-1800 words)
 19. Update row in sheet (Google Sheets API - First attempt)
     ↓
 20. Append or update row in sheet (Google Sheets API - Final log)
-    ↓
-21. Success Response (Webhook Response or Set Node)
 ```
 
 **Purpose**: Saves the blog to Google Docs, logs execution details to Google Sheets twice for redundancy, and returns success confirmation.
